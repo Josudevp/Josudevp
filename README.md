@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Josué 👋
 
-<!--
-**Josudevp/Josudevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software, amante de la programación y la tecnología.  
+Me gusta aprender, construir y compartir.
 
-Here are some ideas to get you started:
+- 🔧 Tecnologías: Java, Git, HTML, CSS
+- 🎮 Videojuegos: Valorant, Fortnite, Brawl Stars
+- 💻 Intereses: Codear, Aprender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecta conmigo
+- Instagram: https://www.instagram.com/josuezzz.0/
+- TikTok: https://www.tiktok.com/@quien_.j
+- GitHub: https://github.com/Josudevp
+
+## Objetivos
+- 🌱 Aprendiendo: profundizar en Java y buenas prácticas
+- 🤝 Colaborar: proyectos open-source y pequeños proyectos web
+- 📚 Próximo: fundamentos de JavaScript y frameworks web
