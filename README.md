@@ -1,8 +1,6 @@
 # Hola, soy Josué 👋
 
-Soy un apasionado estudiante de Ingeniería de Software. Mi objetivo es convertirme en un desarrollador Full Stack especializado en el ecosistema JVM (Java) y el framework Vue.js.
-Actualmente estoy enfocado en construir una base sólida con **Java, Kotlin y Spring Boot** para crear servicios robustos y escalables. 
-Mi plan a futuro es expandir mis habilidades hacia el **desarrollo móvil con Android**, para así poder construir aplicaciones completas de punta a punta.
+Soy un apasionado estudiante de Ingeniería de Software con un enfoque en el desarrollo backend. Mi objetivo es convertirme en un desarrollador Full Stack especializado en el ecosistema JVM (Java) y el framework Vue.js.
 
 ## Mi Enfoque de Aprendizaje Actual
 
