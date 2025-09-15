@@ -15,8 +15,8 @@ Actualmente estoy en la fase de aprendizaje, dedicado a construir una base sóli
   <li>Entender los fundamentos de redes para el desarrollo de aplicaciones.</li>
   <li>Conectar todo y practicar Git para el control de versiones.</li>
 </ul>
-## Tecnologías
 
+### Tecnologías
 - **Python**: Profundizando en sus fundamentos de Programación Orientada a Objetos (POO).
 - **Backend**: Creando mis primeras APIs REST con Django.
 - **Frontend**: Dominando el desarrollo web con HTML, CSS, JavaScript y el framework React.js.
